@@ -54,7 +54,7 @@ _Beware: the decimal numbers use the comma (,) as decimal separator. Remember to
 ### DISTANCE
 The distance d between two points A and B will be calculated using the following formula:
 
-[formula]: resources/formula.PNG "Formula"
+![Formula](resources/formula.PNG)
 
 _Note: In this formula, the latitudes and longitudes are expressed in radians. 6371 corresponds to the radius of the earth in km._
 
