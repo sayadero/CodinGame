@@ -30,6 +30,8 @@ External resources: [Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm), 
 ### STATEMENT
 In this problem you have to find the two numbers that are closest to each other among a list of numbers. The list might be really large and force you to search for the best possible algorithmic complexity for your solution.
 
+##[SOLVE IT](https://www.codingame.com/ide/puzzle/horse-racing-duals)
+
 ### STORY
 To make a race between two horses interesting, you will have to find the horses with the closest strength.
 
@@ -59,5 +61,3 @@ Constraints
 
 #### Output
 > 1  
-
-##[Solve It!](https://www.codingame.com/ide/puzzle/horse-racing-duals)

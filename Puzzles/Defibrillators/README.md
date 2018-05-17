@@ -34,6 +34,8 @@ The goal of this exercise is to make you find the closest point to given geograp
 
 In this puzzle you will play a lot with conversion (degree to radian, coordinates to distance, string to float).
 
+##[SOLVE IT](https://www.codingame.com/ide/puzzle/defibrillators)
+
 ### STORY
 Want to save lives? Good! So help us find the closest defibrillator from a given position in the city of Montpellier, France.
 
@@ -86,5 +88,3 @@ Constraints
 
 #### Output
 > Maison de la Prevention Sante  
-
-##[Solve It!](https://www.codingame.com/ide/puzzle/defibrillators)
