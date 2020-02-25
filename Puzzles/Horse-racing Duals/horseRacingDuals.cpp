@@ -32,16 +32,16 @@ int main()
     for (int i = 1; i < N; i++) {
         int forPi;
         cin >> forPi; cin.ignore();
-        
-        
+
+
         strengths.push_back(forPi);
         //showVector();
     }
-    
+
     std::sort (strengths.begin(), strengths.end());
     //showVector();
-    
-    
+
+
     for (int i = 0; i < strengths.size() - 1; ++i)
     {
         int temp = strengths[i + 1] - strengths[i];
